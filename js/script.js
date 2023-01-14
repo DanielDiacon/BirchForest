@@ -5,9 +5,9 @@ window.addEventListener('scroll', e => {
 // <=>
 
 // loading page <=====================================>
-const loader = document.getElementById("loader");
-
-window.addEventListener("load", function () {
-   loader.style.display = "none";
-});
+//const loader = document.getElementById("loader");
+//
+//window.addEventListener("load", function () {
+//   loader.style.display = "none";
+//});
 // <=>
